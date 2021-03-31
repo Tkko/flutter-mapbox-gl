@@ -23,8 +23,8 @@ flutter:
         pluginClass: MapboxMapsPlugin
       ios:
         pluginClass: MapboxMapsPlugin
-      web:
-        default_package: mapbox_gl_web
+#       web:
+#         default_package: mapbox_gl_web
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
